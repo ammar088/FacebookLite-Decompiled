@@ -1,0 +1,269 @@
+{
+  "built_in": [],
+  "downloadable": [
+    {
+      "disabled": false,
+      "hash": "42fa1549e3b50add102ad8523270270b180b89feb31f9a60866f4c746f7a386d",
+      "name": "blokscamera",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "7c7df03a11d04809356c3c8d06092390f514e0170162eebb8de8f505628260dc",
+      "name": "boost",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "b100412141ab372f03c1d6ff69326ca276ca9ff124d2b66f3e6958ac49d2d447",
+      "name": "camera",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "4991d5a9f2b929c9fccb43f8d4cb7022d5d7085c6da5f6f14852bd1c3ea809ff",
+      "name": "data1",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "219bc83c6173a66b064069da3acf3cb9377550cf10611f6c4aadaa971341c577",
+      "name": "data1024",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "11be988eab00ed554539f17d21d16908a5ad6114497c90675b105332cf34a56d",
+      "name": "data128",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a2c4998dd850633b09fc576ba210d82584aa71a7c9632f5c8a0c55c3d4b6aa6b",
+      "name": "data2048",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "639d6d28be02119f20f2f628008324d7963dc7e90499d1183ab8b8438115ed49",
+      "name": "data256",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "90e55ad5e1d1d8246c1ba2a8730368f60f1fd9a262c02ed68fd171b1ce4fa6c2",
+      "name": "data512",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "501739d3e7bbf502ecea7a164eacb10681ad4d5bfbe44dcf9e040670150e569a",
+      "name": "fizz",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "e8701abfbd4cd5f70fbcbfa69fc593ef213cd151f937d8e3fa5713b140306caa",
+      "name": "heroplayer",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d74d1e5a4be0f66aea51738ccda2f703efdec81250bf9f9551bdcaa81f2d5a9d",
+      "name": "inappbrowser",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "dc72ff5739f782739932c5091a73e5dc018225d38df5b8c1320019f363446118",
+      "name": "libunwindstack",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "792524de35bbd99198672b6265ba06c1f8258bdb448a9a615503cf09170db0ed",
+      "name": "mediacompositionplayer",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "e904257025070eb9e34feb024231cc49b2d00fb999970fb495e355592e4d8326",
+      "name": "mediastreaming",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "e6853004f965e19bfc5949be08069a819857b4baed9c75afbd42312d9593535e",
+      "name": "mnshttp",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "561713bb29ab5733a89dce649dd9ea9f4fad636e4a1f80c3695a895b839f936d",
+      "name": "msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "10b5c1126840991afbeeaa651211387aa547014df176d0bd0e3c90178d7d4155",
+      "name": "msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "415823614fbf6a7f56a37d381d375c4a0b019cbe5e2fb377e2d9ea09489420e2",
+      "name": "profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "b700adc4e300a1c4d047a92c92cf002b317ebfaed3659e887cbfdaecef1ec1b1",
+      "name": "rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "1f43e0f50dffa4bef6e41f99eacf4af046d5539c843db4068812a5f7e9d74995",
+      "name": "s_1214477034",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "0b76446fe05b298ee2bb048167a5dee5d4b5fda1be8ff7f1ef4c3a8684545c91",
+      "name": "s_blokscamera_camera",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "2bfbc49c50978f7af322bd121cd6d300d0c630a77dbdf430070d63133ee83b1a",
+      "name": "s_blokscamera_mediacompositionplayer",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "0cd4c04143620d861e86e3271af89952455a2362590fd14f1fb52878fff1c47b",
+      "name": "s_blokscamera_mediacompositionplayer_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "d0e389f4c054fcced9aed7273a5a9f1535f626f107d5e7491cfd6e4af72f2d80",
+      "name": "s_blokscamera_msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "e72312b06152c4e151eff794fc1dc74f882a686247a697184bafe9731146d313",
+      "name": "s_blokscamera_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "92038f0d1389b6d75c7a73c5af4aba800a7f864d8e45c7594f5d299628ab0a7e",
+      "name": "s_boost_heroplayer",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "5981dde7f82db21d35da04e3ce1c610a6560470c5213ce2af0996608fd5feeef",
+      "name": "s_boost_mediastreaming",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "6f00f7b8e89f88b29adabc0b0f7ba54b1954a5b154ee1f75a2fe625121f3ec94",
+      "name": "s_boost_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "f4675f19cac80b0587d0f1050620c7f5e06bf24e6aecc38de4d83cc190592161",
+      "name": "s_fizz_mediastreaming",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "3b1f02bb13e8c0bec827ede18c78523c72788b97ddbf4b056952dd7bbbd7915e",
+      "name": "s_fizz_msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "851a8c3ea270f0b2dafd16f599b700a5942005ab34705333662d00f7712a210c",
+      "name": "s_heroplayer_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "f67c66d5feebb9af35b069263cadc8b313e5c300367d193c44961cde9f5cb111",
+      "name": "s_inappbrowser_mediastreaming",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c8bc4904f79fd8cf961184d8c47331a3549721beb869fed6d1637119097f4c20",
+      "name": "s_inappbrowser_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a4c61ff89c898e3cfcd150d862f69ecde9185f6c84af76b129bb4e5b5665f401",
+      "name": "s_libunwindstack_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "edcbfd262f4227ad23f98b884eaab7eaa35ba621f72c9aaccead431da486cce2",
+      "name": "s_mediacompositionplayer_mediastreaming_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": true,
+      "hash": "a29bbb7858096cfc24508f879e13b0d610cbb792a70998456b2671ceb32c56d7",
+      "name": "s_mediastreaming_msys_profilo_rtc",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "d4eab3e717ec0f3429b76c033aa09bf91d1eb952cc983b01711b8c20b6b60bb0",
+      "name": "s_mediastreaming_msys_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "a111fa8978d846cfb30e50dbef30f4860b8c8ee7eaafc52bc50492ad8487aa84",
+      "name": "s_mediastreaming_msysinfra",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "95c87c302ba754a44cad53d4faddc7f53c9739ffb7ceccc65527cad161b1db2b",
+      "name": "s_mediastreaming_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "ae3e7e1a7cc852b844ac95f485ca0d51a16da6905333aeb5cc912c2f4ade9d97",
+      "name": "s_mnshttp_msys",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "7013cb5e5c0bd37e5f575a00c5985aa94d96ca041d47e4e8cdd9f6092d027c0f",
+      "name": "s_msys_rtc",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "ebf158742525b4f49dbdce80c05f4ebaabd641149318a9c8f5db2c85c6074297",
+      "name": "shared_fizz_ms_profilo",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "dd1a46b2c33c01b0b19dc1e52895592627c5a538e296ba91a6ba414cb7ba3166",
+      "name": "uiqr",
+      "requires_native": false
+    }
+  ]
+}

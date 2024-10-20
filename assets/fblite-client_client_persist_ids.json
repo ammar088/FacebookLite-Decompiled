@@ -1,0 +1,51 @@
+{
+  "EBFetchVirtualDeviceInfoForDeviceAdditionQuery": {
+    "operation_name": "EBFetchVirtualDeviceInfoForDeviceAdditionQuery",
+    "operation_name_hash": "2561766570",
+    "operation_text_hash": "18100123414322470824",
+    "client_doc_id": "256176657018100123414322470824",
+    "schema": "facebook"
+  },
+  "VestaServerLoginBeginMutation": {
+    "operation_name": "VestaServerLoginBeginMutation",
+    "operation_name_hash": "1611127441",
+    "operation_text_hash": "7796522033253245986",
+    "client_doc_id": "16111274417796522033253245986",
+    "schema": "facebook"
+  },
+  "VestaServerLoginFinishMutation": {
+    "operation_name": "VestaServerLoginFinishMutation",
+    "operation_name_hash": "2628548444",
+    "operation_text_hash": "10636567472734200820",
+    "client_doc_id": "262854844410636567472734200820",
+    "schema": "facebook"
+  },
+  "VestaServerLoginInitQuery": {
+    "operation_name": "VestaServerLoginInitQuery",
+    "operation_name_hash": "819100984",
+    "operation_text_hash": "8993253851631226651",
+    "client_doc_id": "8191009848993253851631226651",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterBeginMutation": {
+    "operation_name": "VestaServerRegisterBeginMutation",
+    "operation_name_hash": "829329851",
+    "operation_text_hash": "12309388963218782612",
+    "client_doc_id": "82932985112309388963218782612",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterFinishMutation": {
+    "operation_name": "VestaServerRegisterFinishMutation",
+    "operation_name_hash": "1516465281",
+    "operation_text_hash": "17384655029364370525",
+    "client_doc_id": "151646528117384655029364370525",
+    "schema": "facebook"
+  },
+  "VestaServerRegisterInitQuery": {
+    "operation_name": "VestaServerRegisterInitQuery",
+    "operation_name_hash": "2552437880",
+    "operation_text_hash": "8619189529512612749",
+    "client_doc_id": "25524378808619189529512612749",
+    "schema": "facebook"
+  }
+}

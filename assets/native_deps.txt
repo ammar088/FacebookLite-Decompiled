@@ -1,0 +1,18 @@
+17
+log
+dl
+c
+jnigraphics
+z
+m
+android
+stdc++
+_everything_merged_1 2
+memalign16 2
+breakpad_cpp_helper 7 2 1
+c++_shared 9 1
+superpack-jni 9 6 1 0
+linkerutils 11 8 0
+fb_mboost-lite 11 0
+_everything_merged 11 5 4 3 0
+breakpad 15 8
